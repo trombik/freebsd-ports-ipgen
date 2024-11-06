@@ -1,0 +1,5 @@
+ipgen is an Interactive Packet GENerator.
+
+It is implemented using fast I/O frameworks like netmap and AF_XDP. It can
+interactively output packets of various sizes and rates, and measure how many
+have been dropped.
